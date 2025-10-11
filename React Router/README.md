@@ -18,3 +18,8 @@ This project includes multiple pages like **Home**, **About**, **Contact**, and 
 ✅ Shared layout with **Navbar** and **Footer**  
 ✅ Page components: Home, About, Contact, and User  
 ✅ Simple, beginner-friendly structure  
+
+---
+
+![Home Page](./fact1.png)
+![About Page](./fact2.png)
