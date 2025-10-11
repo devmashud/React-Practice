@@ -12,5 +12,3 @@ This is a mini React project that demonstrates how to fetch data from an API usi
 
 ---
 
-![Home Page](./fact1.png)
-![About Page](./fact2.png)
