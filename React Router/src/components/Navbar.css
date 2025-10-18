@@ -4,6 +4,7 @@
   align-items: center;
   background: #1e1e1e;
   padding: 15px 40px;
+  color: white;
 }
 
 .logo {
@@ -14,6 +15,7 @@
 
 .nav-links {
   display: flex;
+  align-items: center;
   gap: 25px;
   list-style: none;
   margin: 0;

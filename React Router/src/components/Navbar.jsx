@@ -1,6 +1,8 @@
 import React from "react";
 import { NavLink } from "react-router-dom";
 import "./Navbar.css"; 
+import { CiDark } from "react-icons/ci";
+
 
 const Navbar = () => {
   return (
@@ -33,6 +35,12 @@ const Navbar = () => {
           >
             Contact
           </NavLink>
+
+        </li>
+
+        <li style={{fontSize:"23px"}} onClick={(e)=>{console.log("clicked done")}}>
+          <CiDark />
+
         </li>
       </ul>
     </nav>
