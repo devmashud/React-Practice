@@ -13,8 +13,9 @@ Each project focuses on a specific React concept to help practice step by step.
 | 02 | 🌐 React API Data Cards | A mini project using `useEffect` to fetch API data and map it into cards. |
 | 03 | 🧭 React Router Practice (The Route Forge) | A project to practice routing using `react-router-dom`, including multiple pages like Home, About, Contact, and dynamic user routes. |
 | 04 | Mini-Project-With-Context-Api
+| 05 | Expensive Filter Search — React useMemo Optimization Demo
 
----
+--- 
 
 ## 🚀 Topics Covered
 - React Components & Props  
@@ -22,12 +23,8 @@ Each project focuses on a specific React concept to help practice step by step.
 - Conditional Rendering  
 - Handling Forms in React  
 - React Router DOM (Routing, NavLink, useParams)  
+- useMemo
 
 ---
 
-## ⚙️ How to Run
-```bash
-git clone https://github.com/your-username/react-practice.git
-cd react-practice
-npm install
-npm run dev
+
