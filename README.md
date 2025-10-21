@@ -13,7 +13,7 @@ Each project focuses on a specific React concept to help practice step by step.
 | 02 | 🌐 React API Data Cards | A mini project using `useEffect` to fetch API data and map it into cards. |
 | 03 | 🧭 React Router Practice (The Route Forge) | A project to practice routing using `react-router-dom`, including multiple pages like Home, About, Contact, and dynamic user routes. |
 | 04 | Mini-Project-With-Context-Api
-| 05 | Expensive Filter Search — React useMemo Optimization Demo
+| 05 | Expensive Filter Search | React useMemo Optimization Demo
 
 --- 
 
