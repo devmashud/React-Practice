@@ -15,6 +15,8 @@ Each project focuses on a specific React concept to help practice step by step.
 | 04 | Mini-Project-With-Context-Api
 | 05 | Expensive Filter Search | React useMemo Optimization Demo
 
+| 06 | ReduxCart | Mini React + Redux shopping cart project. 
+
 --- 
 
 ## 🚀 Topics Covered
@@ -24,6 +26,7 @@ Each project focuses on a specific React concept to help practice step by step.
 - Handling Forms in React  
 - React Router DOM (Routing, NavLink, useParams)  
 - useMemo
+-reduxToolkit
 
 ---
 
